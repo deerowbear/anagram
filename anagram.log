@@ -1,0 +1,6 @@
+12:53:39,998 __main__ INFO Word found, but hello is not an anagram.
+12:54:23,602 __main__ INFO Word found in the dictionary, but hello is not an anagram.
+12:54:26,394 __main__ INFO Anagram found for elloh in dictionary with word hello
+12:54:40,839 __main__ INFO Anagram found for dare in dictionary with word read
+12:54:40,839 __main__ INFO Anagram found for dare in dictionary with word dear
+12:54:40,839 __main__ INFO Word found in the dictionary, but dare is not an anagram.

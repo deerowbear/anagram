@@ -6,6 +6,8 @@ To run this program clone the repo and run a command like this:
 /bin/python3 ~/projects/python/anagram/anagram_challange.py --path ~/projects/python/anagram/words.txt
 ```
 
+All output will be logged to a log file.
+
 ## Tech Stack
 
 **Python version:** 3.8.10
